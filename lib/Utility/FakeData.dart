@@ -1,0 +1,5 @@
+String fakeDataFakeNews = "https://images.theconversation.com/files/355573/original/file-20200831-20-3tp9yh.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop";
+String fakeDataFakeMusicCover = "https://d1csarkz8obe9u.cloudfront.net/posterpreviews/artistic-album-cover-design-template-d12ef0296af80b58363dc0deef077ecc_screen.jpg?ts=1561488440";
+String fakeDataLoremIpsum = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed iaculis quam ut vehicula tempor. Morbi fringilla ligula et fringilla porttitor. Sed at mauris quis elit tincidunt congue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.";
+String fakeDataAbstractBackground = "https://www.teahub.io/photos/full/312-3122262_4k-abstract-material-design.jpg";
+String fakeDataExampleLogo = "https://cdn.freelogovectors.net/wp-content/uploads/2020/11/apple_music_logo.png";
